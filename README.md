@@ -159,6 +159,7 @@ Tab Navigation (After Signing up)
 ### Existing API Endpoints
 
 **Housing anywhere API**
+
 url: https://rapidapi.com/apimaker/api/zillow-com1/
 
 | HTTP VERB | ENDPOINT  | DESCRIPTION |
@@ -168,12 +169,12 @@ url: https://rapidapi.com/apimaker/api/zillow-com1/
  | Get | /propertyByCoordinates | Search the property by coordinates.|
  | Get | /similarProperty | Get similar properties for rent |
  | Get | /locationSuggestions | Search a region by name. |
- | Get | /rentEstimate | For more accuracy use beds and baths parameters.
-Rent estimates and comparable rentals.|
+ | Get | /rentEstimate | For more accuracy use beds and baths parameters. Rent estimates and comparable rentals.|
 
 
 
 **Realty Mole Property API**
+
 url: https://rapidapi.com/realtymole/api/realty-mole-property-api/
  | HTTP VERB |  ENDPOINT  | DESCRIPTION | 
  |----|----|-----|
