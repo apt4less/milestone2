@@ -102,9 +102,38 @@ Tab Navigation (After Signing up)
 
 ### Login
 
+| Property    |  Type      |  Description   |
+|-------------|------------|----------------|
+| Username  |  Varchar  | Unique id for user login |
+| Password  |  Hashed string |  User unique Password to login  |
+| Reset User/Pass | Pointer to reset pass/user | Email entry for verification/reset pass/user |
+
+
+
 ### Sign-Up
 
+| Property    |  Type      |  Description   |
+|-------------|------------|----------------|
+| Username  |  Varchar  | Unique id for user login |
+| Password  |  Hashed string |  User unique Password to login  |
+| name | string  |  Full name to be display on profile |
+| email  | varchar  |  user choice of contact  |
+
 ### Offer
+
+| Property    |  Type      |  Description   |
+|-------------|------------|----------------|
+| Zip code | int | Unique ID for Apartment in tallahassee |
+| contact | string | Apartment phone number |
+ | Property Name(URL) | varchar | Link to property website if available.
+ | Email | varchar | Apartment email|
+ | price | int | User input rent range |
+ | Available beds | int | User input amount of bedrooms |
+ | pets | bool | User input(yes/no) for pets |
+ | roommates | bool | User input for sharing common area (yes/no) |
+ | favoriteCount | number | Keep track of all user save appartments |
+ | favoriteDelete | number | Keep track of all user unsave apartments |
+
 
 
 
