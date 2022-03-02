@@ -140,6 +140,8 @@ Tab Navigation (After Signing up)
 
 ## Networking
 
+### List of network requests by screen
+
 ### Profile/ Login-
 - (Read/GET) Query logged in user object
 - (Post) user name, email, and phone from login/sign up
@@ -152,6 +154,27 @@ Tab Navigation (After Signing up)
 - (Get) Retrieve Apartment phone number, email, and url.
 - (Delete) Unsave favorite apartment. 
 
-### List of network requests by screen
+
 
 ### Existing API Endpoints
+
+Housing anywhere API
+
+url: https://rapidapi.com/apimaker/api/zillow-com1/
+
+| HTTP VERB | ENDPOINT  | DESCRIPTION |
+|-----------|-----------|-------------|
+ | Get  | /propertyExtendedSearch | Search property by params.|
+ | Get | /property | Property details.|
+ | Get | /propertyByCoordinates | Search the property by coordinates.|
+ | Get | /similarProperty | Get similar properties for rent |
+ | Get | /locationSuggestions | Search a region by name. |
+ | Get | /rentEstimate | For more accuracy use beds and baths parameters.
+Rent estimates and comparable rentals.|
+
+
+
+
+
+
+
