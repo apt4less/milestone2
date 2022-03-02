@@ -158,8 +158,7 @@ Tab Navigation (After Signing up)
 
 ### Existing API Endpoints
 
-Housing anywhere API
-
+**Housing anywhere API**
 url: https://rapidapi.com/apimaker/api/zillow-com1/
 
 | HTTP VERB | ENDPOINT  | DESCRIPTION |
@@ -174,23 +173,16 @@ Rent estimates and comparable rentals.|
 
 
 
-Realty Mole Property API
+**Realty Mole Property API**
 url: https://rapidapi.com/realtymole/api/realty-mole-property-api/
  | HTTP VERB |  ENDPOINT  | DESCRIPTION | 
  |----|----|-----|
  | Get | /SalePriceEstimate |  rent price estimate along with comparable properties. | 
-
-
  | Get | SaleListings |  Search for rent listings for specific properties or a list of properties based on your criteria| 
-
-
  | Get | /RandomAddresses | ist of random addresses and corresponding property data. | 
-
-
  | Get | /ZipCodeRental Data | Returns rental data for a specified zip code like the average rent by zip code, the number of rentals seen in that zip code | 
 
 
-Get
 
 
 
