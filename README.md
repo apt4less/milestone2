@@ -95,6 +95,11 @@ Tab Navigation (After Signing up)
 ![img7](https://user-images.githubusercontent.com/60937532/155232012-6ce62732-7f1c-4f8e-8c3a-e11dbb0a6f2d.png)
 ![img8](https://user-images.githubusercontent.com/60937532/155232018-57038df4-2e59-4dab-9616-89ba2f6b0b34.png)
 ![Interactive_Wireframe](https://user-images.githubusercontent.com/71302450/155245992-dfa04131-ce60-4bbc-86b4-600c44aa9380.gif)
+![home](https://user-images.githubusercontent.com/71302450/164368492-10ad16d4-a099-4bce-beaa-ef33b6794cba.gif)
+![scholarships](https://user-images.githubusercontent.com/71302450/164368834-758fad50-2b65-4bac-abc3-0b1ab3721c3c.gif)
+![offers page](https://user-images.githubusercontent.com/71302450/164369355-d665853f-2bd7-4234-9fba-fae14bd0f8c4.gif)
+![login_signup](https://user-images.githubusercontent.com/71302450/164369828-14a68b68-6f52-4773-bc91-63c916d984d9.gif)
+
 
 # Schema
 
